@@ -1,5 +1,5 @@
 # A simple and powerfull Makefile to run C++
-It searches automatically source files (in SRCDIR), and outs builded files to the build directory (in BUILDDIR).
+It searches automatically source files, and outs builded files to the build directory.
 
 ## To compile your project
 ```bash

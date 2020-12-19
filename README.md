@@ -10,3 +10,8 @@ make
 ```bash
 make run
 ```
+
+## To delete the build directory
+```bash
+make clean
+```

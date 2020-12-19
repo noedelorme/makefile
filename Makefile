@@ -6,6 +6,7 @@
 # - Specify in BUILDDIR the name of the build directory
 # - Use "make" to compile your project
 # - Use "make run" to compile and run your project
+# - Use "make clean" to delete the build directory
 # - It searches automatically source files (in SRCDIR)
 # - It Outs builded files to the build directory (in BUILDDIR)
 

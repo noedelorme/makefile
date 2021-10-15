@@ -1,17 +1,5 @@
 # A simple and powerfull Makefile to run C++
-It searches automatically source files, and outs builded files to the build directory.
+This Makefile searches automatically source files, and outs builded files to the build directory.
 
-## To compile your project
-```bash
-make
-```
-
-## To compile and run your project
-```bash
-make run
-```
-
-## To delete the build directory
-```bash
-make clean
-```
+## Usage
+Use `make` to compile your project, use `make run` to compile and run your project, use `make clean` to delete the build directory
